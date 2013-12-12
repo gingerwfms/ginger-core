@@ -1,6 +1,7 @@
 nbproject
 backup
 vendor
+composer.lock
 *~
 ._*
 .~lock.*
