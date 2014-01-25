@@ -20,7 +20,10 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "composer/installers" : "1.0.*"
+        "composer/installers" : "1.0.*",
+        "rhumsaa/uuid" : "2.5.*",
+        "codeliner/shared-domain-set" : "1.0.*",
+        "codeliner/php-equalsbuilder" : "1.1.*"
     },
     "require-dev" : {
         "phpunit/phpunit": "3.7.*",
