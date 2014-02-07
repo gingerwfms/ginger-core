@@ -29,7 +29,8 @@
         "phpunit/phpunit": "3.7.*",
         "zendframework/zendframework": "2.2.*",
         "malocher/cqrs-esb" : "1.*",
-        "malocher/zf2-cqrs-module" : "1.*"
+        "malocher/zf2-cqrs-module" : "1.*",
+        "codeliner/shared-domain-set" : "1.*"
     },
     "autoload": {
         "psr-0": {
